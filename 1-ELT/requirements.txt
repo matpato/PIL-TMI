@@ -1,0 +1,6 @@
+jsonpickle
+scrapy
+selenium
+beautifulsoup4
+numpy
+pandas
